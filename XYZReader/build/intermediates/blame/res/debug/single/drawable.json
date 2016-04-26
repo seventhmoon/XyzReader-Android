@@ -16,6 +16,10 @@
         "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -28,12 +32,12 @@
         "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\photo_background_protection.xml"
     },
     {
-        "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
         "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -82,6 +86,10 @@
     {
         "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\fung\\Dropbox\\android-studio-projects\\udacity\\nd801\\p5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
